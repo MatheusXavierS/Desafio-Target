@@ -1,0 +1,14 @@
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.exe
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.deps.json
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.runtimeconfig.json
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.dll
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.pdb
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.AssemblyInfo.cs
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.dll
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\refint\TargetSistemas.dll
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.pdb
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.genruntimeconfig.cache
+C:\Matheus\TargetSistemas\TargetSistemas\TargetSistemas\obj\Debug\net8.0\ref\TargetSistemas.dll

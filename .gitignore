@@ -1,0 +1,13 @@
+# Diretórios de build
+bin/
+obj/
+
+# Configurações de usuário
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+*.exe
+*.dll
+*.pdb
